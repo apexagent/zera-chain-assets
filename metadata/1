@@ -1,0 +1,14 @@
+{
+  "name": "ZERA Gold Bull #1",
+  "description": "MYTHIC item, serial #1 of 1,000. Minted from a real ZERA in-game 3D market asset (public/zera/market3d/gold-bull.glb) as part of ZERA's on-chain item wave (ECONOMY-V2 §6). Testnet proof-of-concept — zero real-money value.",
+  "image": "https://raw.githubusercontent.com/apexagent/zera-chain-assets/main/images/mythic-1-gold-bull.png",
+  "animation_url": "https://raw.githubusercontent.com/apexagent/zera-chain-assets/main/models/mythic-1-gold-bull.glb",
+  "external_url": "https://zera.gg",
+  "attributes": [
+    { "trait_type": "Tier", "value": "MYTHIC" },
+    { "trait_type": "Serial", "value": 1 },
+    { "trait_type": "Cap", "value": 1000 },
+    { "trait_type": "Source", "value": "ZERA in-game market item" },
+    { "trait_type": "Network", "value": "Robinhood Chain Testnet" }
+  ]
+}
